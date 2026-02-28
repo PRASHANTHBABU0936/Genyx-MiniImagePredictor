@@ -13,7 +13,8 @@ A full-stack web application that allows users to register, log in, upload an im
 
  `multer`.
 - **Mock AI Prediction:** Generates a randomized prediction label for uploaded images.
-- **Premium UI:** Custom vanilla CSS utilizing glassmorphism, gradients, hover effects, and modern aesthetics.![Uploading image.png…]()
+- **Premium UI:** Custom vanilla CSS utilizing glassmorphism, gradients, hover effects, and modern aesthetics.<img width="1916" height="906" alt="Screenshot 2026-02-28 140913" src="https://github.com/user-attachments/assets/b709db6f-c63a-4c8e-ac42-f01643226170" />
+
 
 
 - **Responsive Dashboard:** Shows a grid of all predictions and their timestamps.
