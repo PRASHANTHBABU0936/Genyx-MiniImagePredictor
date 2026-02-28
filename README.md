@@ -7,15 +7,19 @@ A full-stack web application that allows users to register, log in, upload an im
 
 - **Protected Routes:** Both API endpoints and Frontend pages are protected.<img width="1858" height="860" alt="Screenshot 2026-02-28 134627" src="https://github.com/user-attachments/assets/64c620b4-7995-4057-97b9-764f31703427" />
 
-- **Image Upload:** Local multipart form upload handling with![Uploading image.png…]()
+- **Image Upload:** Local multipart form upload handling with
+- <img width="1906" height="888" alt="Screenshot 2026-02-28 134535" src="https://github.com/user-attachments/assets/3027b194-2d32-405e-9d14-d2e205d472d0" />
+
 
  `multer`.
 - **Mock AI Prediction:** Generates a randomized prediction label for uploaded images.
-- **Premium UI:** Custom vanilla CSS utilizing glassmorphism, gradients, hover effects, and modern aesthetics.<img width="1915" height="891" alt="Screenshot 2026-02-28 134615" src="https://github.com/user-attachments/assets/b9918e83-1c7f-4ac1-8430-a0253b0fa247" />
+- **Premium UI:** Custom vanilla CSS utilizing glassmorphism, gradients, hover effects, and modern aesthetics.![Uploading image.png…]()
+
 
 - **Responsive Dashboard:** Shows a grid of all predictions and their timestamps.
 
 ## Tech Stack
+
 - **Frontend:** React (Vite), React Router DOM, Axios, Lucide React (Icons)
 - **Backend:** Node.js, Express, Mongoose, JSON Web Tokens (JWT), Bcrypt.js, Multer
 - **Database:** MongoDB (using local default or standard URI)
