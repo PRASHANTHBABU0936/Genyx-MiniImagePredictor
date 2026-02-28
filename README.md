@@ -3,11 +3,15 @@
 A full-stack web application that allows users to register, log in, upload an image, receive a mock AI prediction, and view their history on a stylized, glassmorphic dashboard. 
 
 ## Features
-- **JWT Authentication:** Secure Register/Login system.
-- **Protected Routes:** Both API endpoints and Frontend pages are protected.
-- **Image Upload:** Local multipart form upload handling with `multer`.
+- **JWT Authentication:** Secure Register/Login system.<img width="1825" height="900" alt="Screenshot 2026-02-28 134647" src="https://github.com/user-attachments/assets/c520c7b1-6844-4c76-b4e7-e2a2856845d3" />
+
+- **Protected Routes:** Both API endpoints and Frontend pages are protected.<img width="1858" height="860" alt="Screenshot 2026-02-28 134627" src="https://github.com/user-attachments/assets/64c620b4-7995-4057-97b9-764f31703427" />
+
+- **Image Upload:** Local multipart form upload handling with<img width="1906" height="888" alt="Screenshot 2026-02-28 134535" src="https://github.com/user-attachments/assets/e1565f86-a090-4bbd-b53e-01575755ce6c" />
+ `multer`.
 - **Mock AI Prediction:** Generates a randomized prediction label for uploaded images.
-- **Premium UI:** Custom vanilla CSS utilizing glassmorphism, gradients, hover effects, and modern aesthetics.
+- **Premium UI:** Custom vanilla CSS utilizing glassmorphism, gradients, hover effects, and modern aesthetics.<img width="1915" height="891" alt="Screenshot 2026-02-28 134615" src="https://github.com/user-attachments/assets/b9918e83-1c7f-4ac1-8430-a0253b0fa247" />
+
 - **Responsive Dashboard:** Shows a grid of all predictions and their timestamps.
 
 ## Tech Stack
